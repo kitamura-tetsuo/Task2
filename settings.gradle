@@ -1,0 +1,3 @@
+include ':app', ':task2wear', ':mylibrary'
+
+project(':app').projectDir = new File('app')
